@@ -1,4 +1,4 @@
-<img width="1600" height="1378" alt="image" src="https://github.com/user-attachments/assets/344f224a-1361-414f-a00f-5d1fea6763aa" />**SortiTech: Smart Waste Sorting and Collection System**
+*SortiTech: Smart Waste Sorting and Collection System**
 
 **DESCRIPTION/OVERVIEW**
 
