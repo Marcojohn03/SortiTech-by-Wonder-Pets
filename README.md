@@ -25,7 +25,7 @@ determine how to present their respective information without the program having
 **Inheritance** - WasteRecord is the predecessor of PlasticRecord.  WasteRecord provides it with all of its fields.  It has date & amountReduced.  It gets any base methods too.  
 PlasticRecord possesses everything that base class provides...It avoids the repetition of code and simplifies the task of creating new waste-record types in the future.
 
-**Polymorphism **- the displayRecord() method is defined in the abstract class, but implemented in different ways in each of the subclasses. It is a form of runtime polymorphism: 
+**Polymorphism** - the displayRecord() method is defined in the abstract class, but implemented in different ways in each of the subclasses. It is a form of runtime polymorphism: 
 the program can work with different record types using the WasteRecord reference, but on executing the displayRecord() method, it executes the one that is specific to a subclass 
 (such as PlasticRecord).
 
