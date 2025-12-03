@@ -1,4 +1,4 @@
-*SortiTech: Smart Waste Sorting and Collection System**
+_**SortiTech: Smart Waste Sorting and Collection System**_
 
 **DESCRIPTION/OVERVIEW**
 
